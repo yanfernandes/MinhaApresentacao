@@ -153,13 +153,13 @@ a:hover{
 }
 
 footer{
-  padding:50px 0px 0px 0px
+  padding: 0px 0px 0px 0px
 }
 
 footer .social li{
   display:inline;
-  margin-left:20px;
-  font-size: 20px;
+  margin-left:2px;
+  font-size: 25px;
 }
 
 footer .social li a{
